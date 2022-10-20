@@ -1,0 +1,25 @@
+John Smith II Jr.
+28
+Section 8:00 AM TR
+false
+Get of the class!
+Bobby Brown
+21
+Section 9:00 AM MWF
+true
+Excellent!
+Adam Eve 
+22
+Section 12:30 PM TR
+false
+Need to improve!
+Bob Sue
+23
+Section 9:30 AM TR
+true
+Wow!
+Becky Smith
+99
+Section 8:00 AM MWF
+false
+Please stay home!

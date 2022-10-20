@@ -1,0 +1,5 @@
+Student{name=John Smith Jr. II, age=20, schedule=Section 8:00 AM TR, attendance=true, comment=Excellent performance!}
+Student{name=Becky Brown, age=21, schedule=Section 8:00 AM MWF, attendance=false, comment=Need to attend classes!}
+Student{name=Roshan Patel, age=22, schedule=Section 12:30 PM TR, attendance=false, comment=See me in the office!}
+Student{name=Seth Hydon, age=22, schedule=Section 3:00 PM MWF, attendance=true, comment=Wow!}
+Student{name=Mary Collins, age=99, schedule=Section 08:00 AM MWF, attendance=false, comment=Better stay home!}

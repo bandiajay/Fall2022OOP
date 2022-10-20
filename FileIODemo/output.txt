@@ -1,0 +1,5 @@
+Student{name=John Smith II Jr., age=28, schedule=Section 8:00 AM TR, attendance=false, comment=Get of the class!}
+Student{name=Bobby Brown, age=21, schedule=Section 9:00 AM MWF, attendance=true, comment=Excellent!}
+Student{name=Adam Eve , age=22, schedule=Section 12:30 PM TR, attendance=false, comment=Need to improve!}
+Student{name=Bob Sue, age=23, schedule=Section 9:30 AM TR, attendance=true, comment=Wow!}
+Student{name=Becky Smith, age=99, schedule=Section 8:00 AM MWF, attendance=false, comment=Please stay home!}

@@ -1,0 +1,25 @@
+John Smith Jr. II
+20
+Section 8:00 AM TR
+true
+Excellent performance!
+Becky Brown
+21
+Section 8:00 AM MWF
+false
+Need to attend classes!
+Roshan Patel
+22
+Section 12:30 PM TR
+false
+See me in the office!
+Seth Hydon
+22
+Section 3:00 PM MWF
+true
+Wow!
+Mary Collins
+99
+Section 08:00 AM MWF
+false
+Better stay home!
